@@ -1,0 +1,156 @@
+{
+  "muzzles": [
+    {
+      "id": "compensator",
+      "name": "Diffuser",
+      "icon": "🔇",
+      "verticalMod": 0.85,
+      "horizontalMod": 0.90,
+      "recoveryMod": 1.0,
+      "description": "Reduces vertical and horizontal recoil significantly."
+    },
+    {
+      "id": "flashhider",
+      "name": "Shroud",
+      "icon": "💥",
+      "verticalMod": 0.90,
+      "horizontalMod": 0.95,
+      "recoveryMod": 1.0,
+      "description": "Hides muzzle flash and slightly reduces recoil."
+    },
+    {
+      "id": "suppressor",
+      "name": "Dampener",
+      "icon": "🔕",
+      "verticalMod": 1.0,
+      "horizontalMod": 1.0,
+      "recoveryMod": 1.0,
+      "description": "Silences gunshots, no recoil modification."
+    }
+  ],
+  "grips": [
+    {
+      "id": "vertical",
+      "name": "Upright Brace",
+      "icon": "⬆️",
+      "verticalMod": 0.85,
+      "horizontalMod": 1.0,
+      "recoveryMod": 1.0,
+      "description": "Reduces vertical recoil greatly."
+    },
+    {
+      "id": "angled",
+      "name": "Lateral Brace",
+      "icon": "↗️",
+      "verticalMod": 1.0,
+      "horizontalMod": 0.85,
+      "recoveryMod": 1.0,
+      "description": "Reduces horizontal recoil and ADS speed."
+    },
+    {
+      "id": "half",
+      "name": "Mid Brace",
+      "icon": "◐",
+      "verticalMod": 0.92,
+      "horizontalMod": 0.92,
+      "recoveryMod": 1.0,
+      "description": "Balanced reduction in both recoil directions."
+    },
+    {
+      "id": "light",
+      "name": "Flex Brace",
+      "icon": "🪶",
+      "verticalMod": 1.0,
+      "horizontalMod": 1.0,
+      "recoveryMod": 0.90,
+      "description": "Improves recoil recovery speed."
+    },
+    {
+      "id": "thumb",
+      "name": "Palm Brace",
+      "icon": "👍",
+      "verticalMod": 0.95,
+      "horizontalMod": 1.0,
+      "recoveryMod": 0.95,
+      "description": "Slightly reduces vertical recoil, improves recovery."
+    }
+  ],
+  "stocks": [
+    {
+      "id": "tactical",
+      "name": "Chassis S",
+      "icon": "📐",
+      "verticalMod": 0.95,
+      "horizontalMod": 0.95,
+      "recoveryMod": 0.92,
+      "description": "Provides overall stability improvement."
+    },
+    {
+      "id": "extended",
+      "name": "Chassis X",
+      "icon": "📏",
+      "verticalMod": 0.92,
+      "horizontalMod": 0.92,
+      "recoveryMod": 0.88,
+      "description": "Maximum recoil and recovery improvement."
+    }
+  ],
+  "scopes": [
+    {
+      "id": "none",
+      "name": "Open Sight",
+      "icon": "🎯",
+      "zoomFactor": 1.0,
+      "adsMultiplier": 1.0,
+      "recoilScale": 1.0
+    },
+    {
+      "id": "1x",
+      "name": "Dot Sight",
+      "icon": "🔴",
+      "zoomFactor": 1.5,
+      "adsMultiplier": 1.0,
+      "recoilScale": 1.0
+    },
+    {
+      "id": "2x",
+      "name": "2x Optic",
+      "icon": "🔭",
+      "zoomFactor": 2.0,
+      "adsMultiplier": 0.85,
+      "recoilScale": 1.5
+    },
+    {
+      "id": "3x",
+      "name": "3x Optic",
+      "icon": "🔭",
+      "zoomFactor": 3.0,
+      "adsMultiplier": 0.72,
+      "recoilScale": 2.2
+    },
+    {
+      "id": "4x",
+      "name": "4x Optic",
+      "icon": "🔭",
+      "zoomFactor": 4.0,
+      "adsMultiplier": 0.50,
+      "recoilScale": 3.0
+    },
+    {
+      "id": "6x",
+      "name": "6x Optic",
+      "icon": "🔭",
+      "zoomFactor": 6.0,
+      "adsMultiplier": 0.35,
+      "recoilScale": 4.5
+    },
+    {
+      "id": "8x",
+      "name": "8x Optic",
+      "icon": "🔭",
+      "zoomFactor": 8.0,
+      "adsMultiplier": 0.25,
+      "recoilScale": 6.0
+    }
+  ]
+}
