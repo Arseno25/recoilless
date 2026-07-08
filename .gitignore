@@ -11,6 +11,10 @@ build.bat
 src/
 vendor/
 
+# User settings & presets (personal config, not distributed)
+recoil_settings.ini
+recoil_presets.ini
+
 # IDE
 .vs/
 .vscode/
