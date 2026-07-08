@@ -1,6 +1,6 @@
 # PUBG Recoil Macro
 
-A recoil compensation tool for PUBG. Run `recoil_ui.exe`, select the weapon and scope matching your in-game loadout, arm with the arm key (default: Insert), then hold the trigger button (default: LMB) while firing.
+A recoil compensation tool for **PUBG PC**. Run `recoil_ui.exe`, select the weapon and scope matching your in-game loadout, arm with the arm key (default: Insert), then hold the trigger button (default: LMB) while firing.
 
 ## Usage
 1. Run `recoil_ui.exe`
