@@ -1,12 +1,12 @@
 # PUBG Recoil Macro
 
-Aplikasi recoil compensation untuk PUBG. Jalankan `recoil_ui.exe`, atur weapon dan scope sesuai loadout in-game, aktifkan dengan tombol arm (default: Insert), lalu tahan tombol trigger (default: LMB) saat menembak.
+A recoil compensation tool for PUBG. Run `recoil_ui.exe`, select the weapon and scope matching your in-game loadout, arm with the arm key (default: Insert), then hold the trigger button (default: LMB) while firing.
 
-## Cara Penggunaan
-1. Jalankan `recoil_ui.exe`
-2. Pilih weapon dan scope yang sesuai dengan loadout
-3. Tekan **Insert** untuk mengaktifkan (arm)
-4. Tahan **LMB** saat menembak — recoil akan dikompensasi otomatis
-5. Kombinasi tombol (CTRL+1/2/3, dll.) untuk ganti weapon/scope preset
+## Usage
+1. Run `recoil_ui.exe`
+2. Select weapon and scope matching your loadout
+3. Press **Insert** to arm
+4. Hold **LMB** while firing — recoil is compensated automatically
+5. Use combo keys (CTRL+1/2/3, etc.) to switch weapon/scope presets
 
-Edit `config.ini` untuk menyesuaikan parameter recoil, scope scaling, dan combo keys.
+Edit `config.ini` to adjust recoil parameters, scope scaling, and combo key bindings.
